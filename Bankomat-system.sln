@@ -2,13 +2,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bankomat-system", "Bankomat-system\Bankomat-system.csproj", "{62BBB12F-AF47-425F-A5E4-22DEC613B0AF}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "common", "common", "{E38673D5-BFDA-47F9-8AAE-7D76A38B932C}"
-	ProjectSection(SolutionItems) = preProject
-		common\.editorconfig = common\.editorconfig
-		common\Directory.Build.props = common\Directory.Build.props
-		common\Directory.Packages.props = common\Directory.Packages.props
-	EndProjectSection
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F159D43F-8F7E-40D1-9169-9186E438325B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{EBA14C4E-F6F0-4585-954D-C29C826B0936}"
